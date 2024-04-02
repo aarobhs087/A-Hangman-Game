@@ -29,11 +29,17 @@ Welcome to the Hangman game! Hangman is a word-guessing game where players attem
 
 ## Preview
 
-![Preview](preview.png)
+![image](https://github.com/aarobhs087/A-Hangman-Game/assets/165626806/9f89869f-92e6-4794-b652-ca28848e3ada)
+
+![image](https://github.com/aarobhs087/A-Hangman-Game/assets/165626806/2e01fc03-4133-4cfe-9665-ec87bee28314)
+
+![image](https://github.com/aarobhs087/A-Hangman-Game/assets/165626806/68db55b4-29c8-46a2-a89b-f4d1acb476c6)
+
+![image](https://github.com/aarobhs087/A-Hangman-Game/assets/165626806/6607a2c2-c275-48fb-9ae9-c503955583dd)
 
 ## Demo
 
-You can see a live demo of the game [here](https://example.com).
+You can see a live demo of the game [here](https://aarobhs087.github.io/A-Hangman-Game/).
 
 ## Contributing
 
